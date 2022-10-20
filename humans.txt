@@ -3,8 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
-
+    Jack Rum   tylon@got.trainting @tylonieony
 # THANKS
 
     <name>
